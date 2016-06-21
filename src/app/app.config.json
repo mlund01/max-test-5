@@ -1,0 +1,13 @@
+{
+  "appname": "max-test-5",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "4FC56AF8-BAEA-44D2-860E-447E43A1AAE7",
+  "buyerid": "maxs-first-buyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
